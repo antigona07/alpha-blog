@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<title>About</title>
+<body>
+
+
+<h1 style="text-align:center">About us</h1>
+
+<center><img src="cats2.jpg" alt="Cats" style="width:500px;height:228px;opacity:0.5;"></cent\
+\
+er>
+<br><br>
+</body>
+</html>
+
+
+<%= link_to 'Home', pages_home_path %>
